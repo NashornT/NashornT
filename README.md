@@ -1,7 +1,7 @@
 ### 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target"_blank">
+  <a href="https://nashornt.github.io/Snake_Game/" target"_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nashornt&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashornt&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
